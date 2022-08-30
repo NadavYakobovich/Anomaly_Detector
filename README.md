@@ -13,6 +13,7 @@
     * step 2: detect the anomaly of the flying data when given a csv file of the data flying
     * display the result of the  anomaly detection
 
+<img src="Pic/Illustration.png" alt="drawing" width="400"/>
 
 ### How it works:
 1. Server start and listen to the port waiting for the client to connect
