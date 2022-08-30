@@ -1,7 +1,7 @@
 # Anomaly Detector Project
 
 ### About the project:
-* The project write in c++
+* The project written in c++
 * The projects is a anomaly detector for anomaly flying data
 * The Detector is base on simple statistic algorithm - creat 
 
